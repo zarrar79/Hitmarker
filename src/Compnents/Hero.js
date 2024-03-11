@@ -2,6 +2,7 @@ import React from 'react';
 import Logo from '../../src/Assets/Hitmarker.svg';
 import Play from '../../src/Assets/Play.svg'
 import Man from '../../src/Assets/Man.svg'
+import Social from '../../src/Assets/Social.svg'
 export const Hero = () => {
     const display = () => {
         const menuElements = document.getElementsByClassName('menuNew');
@@ -20,9 +21,9 @@ export const Hero = () => {
     {/* fluid container */}
     <div className='bg-[#19191B] pt-[0.1px]'>
     {/* background */}
-    <div className='bg_padding max-w-[1120px] mx-auto mt-10'>
+    <div className='max-w-[1120px] mx-auto mt-10 relative'>
      {/* parent nav */}
-     <div className='text-[#ffff] flex justify-between items-center'>
+     <div className='text-[#ffff] flex justify-between items-center bg_padding'>
         {/* img */}
         <div><img src={Logo}/></div>
         {/* mid */}
@@ -81,7 +82,7 @@ export const Hero = () => {
         </div>
      </div>
      {/* Grid */}
-     <div className='grid grid-cols-2 items-center pb-[100px] mt-[59px] grid_resp'>
+     <div className='grid grid-cols-2 items-center pb-[150px] mt-[59px] grid_resp'>
         {/* left */}
         <div className='text-[#ffff] left_grid'>
             {/* b-text */}
@@ -116,6 +117,10 @@ export const Hero = () => {
         <img className='' src={Man}></img>
         </div>
        </div>
+     </div>
+     {/* absolute-parent */}
+     <div className='absolute py-[1.3rem] px-[1.1rem] bottom-[-42px] bg-[#ffff] rounded-[12px]'>
+      <img className='left-[50%] right-[50%]' src={Social}></img>
      </div>
     </div>
     </div>

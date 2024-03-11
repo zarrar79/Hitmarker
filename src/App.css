@@ -245,6 +245,7 @@
     display:flex;
     justify-content:center;
     margin:0;
+    margin-top:2rem;
   }
   .img_resp img{
     width:480px;
@@ -258,5 +259,8 @@
   .button_2{
     margin-top:1rem;
     margin-left:0px;
+  }
+  .grid_resp{
+    padding-bottom:70px;
   }
 }
