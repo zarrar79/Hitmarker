@@ -126,7 +126,6 @@
 .App-link {
   color: #61dafb;
 }
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -232,9 +231,6 @@
 }
 .box_abs{
   box-shadow:4px 20px 100px 0px #0815260F;
- border-top: 1px #7681921A solid;
- border-right: 1px #7681921A solid;
- border-bottom: 1px #7681921A solid;
 }
 @media (max-width:768px){
   .mid,.right{
@@ -382,5 +378,14 @@
   .block_resp{
     display:block;
     text-align:center;
+  }
+}
+@media (max-width:667px){
+  .bar_flex{
+    display:block;
+
+  }
+  .bar_flex_img{
+    padding-top:1rem;
   }
 }

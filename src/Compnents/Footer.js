@@ -27,7 +27,7 @@ export const Footer = () => {
                         {/* head */}
                         <div className='nav text-[24px] text-[#2E2E46]'>Company</div>
                         {/* small */}
-                        <div className='nav text-[18px] text-[#222831] space-y-2 mt-7'>
+                        <div className='nav text-[18px] text-[#222831] space-y-3 mt-7'>
                                 <div>About</div>
                                 <div>Careers</div>
                                 <div>Mobile</div>
@@ -38,7 +38,7 @@ export const Footer = () => {
                          {/* head */}
                          <div className='nav text-[24px] text-[#2E2E46]'>Contact</div>
                         {/* small */}
-                        <div className='nav text-[18px] text-[#222831] space-y-2 mt-7'>
+                        <div className='nav text-[18px] text-[#222831] space-y-3 mt-7'>
                                 <div> Help/FAQ</div>
                                 <div>Press</div>
                                 <div>Affiliates</div>
@@ -49,7 +49,7 @@ export const Footer = () => {
                          {/* head */}
                          <div className='nav text-[24px] text-[#2E2E46]'>More</div>
                         {/* small */}
-                        <div className='nav text-[18px] text-[#222831] space-y-2 mt-7'>
+                        <div className='nav text-[18px] text-[#222831] space-y-3 mt-7'>
                                 <div>Airline fees</div>
                                 <div>Airlines</div>
                                 <div>Low fare tips</div>
@@ -62,7 +62,7 @@ export const Footer = () => {
                 {/* head */}
                 <div className='discover nav text-[24px] text-[#2E2E46]'>Discover Our App</div>
                         {/* small */}
-                        <div className='nav text-[18px] text-[#222831] space-y-2 mt-[16px]'>
+                        <div className='nav text-[18px] text-[#222831] space-y-3 mt-[16px]'>
                                 <div className='flex items-center'>
                                     {/* img 1 */}
                                     <div><button className='bg-[#2E2E46] px-4 py-2 rounded-[24px] '>
@@ -74,7 +74,7 @@ export const Footer = () => {
                                 </div>
                                 </div>
                                 {/* img 2 */}
-                                <div className='social_footer flex items-center justify-start mt-[18px]'>
+                                <div className='social_footer flex items-center justify-start mt-[30px]'>
                                     {/* m-1 */}
                                     <div className='cursor-pointer'><img src={Facebook}></img></div>
                                     {/* m-2 */}
