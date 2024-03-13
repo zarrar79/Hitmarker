@@ -23,13 +23,13 @@ export const Main = () => {
                 {/* sm-text */}
                 <div className='nav text-[18px] text-[#2D3140] text-center mt-1'>These opportunities are shown on every page of our site and shared daily on our Twitter account.</div>
                 {/* grid */}
-                <div className='grid_main grid grid-cols-3 mt-[5.8rem] gap-10 ml-8'>
+                <div className='grid_main grid grid-cols-3 mt-[5.8rem] gap-10 ml-8 fluid_padding'>
                     {/* grid_left */}
                     <div className='space-y-[2.5rem]'>
                     {/* left */}
                     <div className=''>
                         {/* parent */}
-                        <div className='nav box_shadow py-4 px-4'>
+                        <div className='nav box_shadow py-4 px-4 rounded-[10px]'>
                             {/* head */}
                             <div className='font-bold text-[18px] text-[#000000]'>Social Video Creator</div>
                             {/* horizontal */}
@@ -53,7 +53,7 @@ export const Main = () => {
                     {/* left */}
                     <div className=''>
                         {/* parent */}
-                        <div className='nav box_shadow py-4'>
+                        <div className='nav box_shadow py-4 rounded-[10px]'>
                             {/* head */}
                             <div className='font-bold text-[18px] text-[#000000]'>Esports Competition Coordinator</div>
                             {/* horizontal */}
@@ -77,7 +77,7 @@ export const Main = () => {
                     {/* mid */}
                     <div className=''>
                         {/* parent */}
-                        <div className='nav box_shadow py-4'>
+                        <div className='nav box_shadow py-4 rounded-[10px]'>
                             {/* head */}
                             <div className='font-bold text-[18px] text-[#000000]'>Social Video Creator</div>
                             {/* horizontal */}
@@ -101,7 +101,7 @@ export const Main = () => {
                     {/* left */}
                     <div className=''>
                         {/* parent */}
-                        <div className='nav box_shadow py-4'>
+                        <div className='nav box_shadow py-4 rounded-[10px]'>
                             {/* head */}
                             <div className='font-bold text-[18px] text-[#000000]'>Esports Competition Coordinator</div>
                             {/* horizontal */}
@@ -125,7 +125,7 @@ export const Main = () => {
                     {/* mid */}
                     <div className=''>
                         {/* parent */}
-                        <div className='nav box_shadow py-4'>
+                        <div className='nav box_shadow py-4 rounded-[10px]'>
                             {/* head */}
                             <div className='font-bold text-[18px] text-[#000000]'>Social Video Creator</div>
                             {/* horizontal */}
@@ -148,7 +148,7 @@ export const Main = () => {
                     </div>
                     </div>
                     {/* grid_mid */}
-                    <div className='space-y-[2.5rem]'>
+                    <div className='space-y-[2.5rem] rounded-[10px]'>
                         {/* mid */}
                     <div className=''>
                         {/* parent */}
@@ -176,7 +176,7 @@ export const Main = () => {
                     {/* mid */}
                     <div className=''>
                         {/* parent */}
-                        <div className='nav box_shadow py-4'>
+                        <div className='nav box_shadow py-4 rounded-[10px]'>
                             {/* head */}
                             <div className='font-bold text-[18px] text-[#000000]'>Social Video Creator</div>
                             {/* horizontal */}
@@ -200,7 +200,7 @@ export const Main = () => {
                     {/* right */}
                     <div className=''>
                         {/* parent */}
-                        <div className='nav box_shadow py-4'>
+                        <div className='nav box_shadow py-4 rounded-[10px]'>
                             {/* head */}
                             <div className='font-bold text-[18px] text-[#000000]'>Graphic Designer</div>
                             {/* horizontal */}
@@ -224,7 +224,7 @@ export const Main = () => {
                     {/* mid */}
                     <div className=''>
                         {/* parent */}
-                        <div className='nav box_shadow py-4'>
+                        <div className='nav box_shadow py-4 rounded-[10px]'>
                             {/* head */}
                             <div className='font-bold text-[18px] text-[#000000]'>Social Video Creator</div>
                             {/* horizontal */}
@@ -248,7 +248,7 @@ export const Main = () => {
                     {/* right */}
                     <div className=''>
                         {/* parent */}
-                        <div className='nav box_shadow py-4'>
+                        <div className='nav box_shadow py-4 rounded-[10px]'>
                             {/* head */}
                             <div className='font-bold text-[18px] text-[#000000]'>Graphic Designer</div>
                             {/* horizontal */}
@@ -275,7 +275,7 @@ export const Main = () => {
                         {/* right */}
                     <div className=''>
                         {/* parent */}
-                        <div className='nav box_shadow py-4'>
+                        <div className='nav box_shadow py-4 rounded-[10px]'>
                             {/* head */}
                             <div className='font-bold text-[18px] text-[#000000]'>Graphic Designer</div>
                             {/* horizontal */}
@@ -299,7 +299,7 @@ export const Main = () => {
                      {/* right */}
                      <div className=''>
                         {/* parent */}
-                        <div className='nav box_shadow py-4'>
+                        <div className='nav box_shadow py-4 rounded-[10px]'>
                             {/* head */}
                             <div className='font-bold text-[18px] text-[#000000]'>Graphic Designer</div>
                             {/* horizontal */}
@@ -323,7 +323,7 @@ export const Main = () => {
                     {/* left */}
                     <div className=''>
                         {/* parent */}
-                        <div className='nav box_shadow py-4'>
+                        <div className='nav box_shadow py-4 rounded-[10px]'>
                             {/* head */}
                             <div className='font-bold text-[18px] text-[#000000]'>Esports Competition Coordinator</div>
                             {/* horizontal */}
@@ -347,7 +347,7 @@ export const Main = () => {
                     {/* right */}
                     <div className=''>
                         {/* parent */}
-                        <div className='nav box_shadow py-4'>
+                        <div className='nav box_shadow py-4 rounded-[10px]'>
                             {/* head */}
                             <div className='font-bold text-[18px] text-[#000000]'>Graphic Designer</div>
                             {/* horizontal */}
@@ -371,7 +371,7 @@ export const Main = () => {
                     {/* left */}
                     <div className=''>
                         {/* parent */}
-                        <div className='nav box_shadow py-4'>
+                        <div className='nav box_shadow py-4 rounded-[10px]'>
                             {/* head */}
                             <div className='font-bold text-[18px] text-[#000000]'>Esports Competition Coordinator</div>
                             {/* horizontal */}

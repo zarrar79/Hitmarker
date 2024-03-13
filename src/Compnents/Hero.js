@@ -21,7 +21,7 @@ export const Hero = () => {
     {/* fluid container */}
     <div className='bg-[#19191B] pt-[0.1px]'>
     {/* background */}
-    <div className='max-w-[1120px] mx-auto mt-10 relative'>
+    <div className='max-w-[1120px] mx-auto mt-10 relative fluid_padding'>
      {/* parent nav */}
      <div className='text-[#ffff] flex justify-between items-center bg_padding'>
         {/* img */}

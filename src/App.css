@@ -389,3 +389,16 @@
     padding-top:1rem;
   }
 }
+@media (max-width:320px){
+  .fluid_padding{
+    padding-left:1rem;
+    padding-right:1rem;
+  }
+  .nav_bold,.nav{
+    text-align:center;
+  }
+  .bar_flex_img{
+    display:flex;
+    justify-content:center;
+  }
+}
