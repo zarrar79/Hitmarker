@@ -49,7 +49,7 @@ export const Footer = () => {
                          {/* head */}
                          <div className='nav text-[24px] text-[#2E2E46]'>More</div>
                         {/* small */}
-                        <div className='nav text-[18px] text-[#222831] space-y-3 mt-7'>
+                        <div className='nav font-normal text-[18px] text-[#222831] space-y-3 mt-7'>
                                 <div>Airline fees</div>
                                 <div>Airlines</div>
                                 <div>Low fare tips</div>
