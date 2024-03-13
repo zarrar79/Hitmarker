@@ -108,7 +108,10 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.view_shadow{
+  box-shadow: 0px -6px 8px 0px #0C416D14 inset;
 
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -300,5 +303,78 @@
   }
   .sm_img img{
     margin-top:1rem;
+  }
+}
+@media (max-width:1117px){
+  .footer_M,.dots{
+    display:none;
+  }
+  .bg_bg{
+    display:none;
+  }
+  .text_big{
+   display:block;
+  }
+  .box_abs{
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-right: 0;
+    margin-right: 0;
+    border: none;
+  }
+  .what_say{
+    display: block;
+    /* margin: 0; */
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  /* images */
+  .imgs{
+    margin-top: 1rem;
+    justify-content: center;
+  }
+  .lArrow{
+    padding-left:0px;
+  }
+}
+@media (max-width:500px ){
+  .box_abs{
+    display:none;
+  }
+}
+@media (max-width:976px){
+  .grid_footer{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    
+  }
+  .discover{
+    text-align:center;
+  }
+  .wheel{
+    display:flex;
+    justify-content:center;
+  }
+  .margin_resp{
+    margin-left:9rem;
+  }
+}
+@media (max-width:637px){
+  .margin_resp{
+    margin-left:4rem;
+  }
+}
+@media (max-width:441px){
+  .margin_resp{
+    margin-left:0px;
+    margin-top:1rem;
+  }
+  .block_resp{
+    display:block;
+    text-align:center;
   }
 }

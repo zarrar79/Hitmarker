@@ -93,7 +93,7 @@ export const Hero = () => {
         <div className='mt-14 flex items-center left_buttons'>
           {/* b_1 */}
           <div>
-            <button className='nav_bold text-[16px] px-12 py-[14px] bg-[#FF6810] rounded-[6px]'>View Jobs</button>
+            <button className='view_shadow nav_bold text-[16px] px-12 py-[15px] bg-[#FF6810] rounded-[6px]'>View Jobs</button>
           </div>
           {/* b_2 */}
           <div className='button_2 ml-9'>

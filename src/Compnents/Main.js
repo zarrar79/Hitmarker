@@ -412,24 +412,24 @@ export const Main = () => {
                 {/* parent */}
                 <div className='flex items-center relative mt-[10rem]'>
                 {/* second last */}
-                <div className='relative w-[401px] h-[486.76px]'>
+                <div className='relative max-w-[401px] max-h-[486.76px]'>
                     {/* first div */}
-                    <div className='w-[401px] h-[50px] z-0'></div>
+                    <div className='bg_bg w-[401px] h-[50px] z-0'></div>
                     {/* second div */}
-                    <div className='z-0 w-[401px] h-[428px] bg-[#171717]'></div>
+                    <div className='bg_bg z-0 max-w-[401px] h-[428px] bg-[#171717]'></div>
                     {/* image abs */}
-                    <img className='absolute z-1 top-0' src={FooterM}></img>
+                    <img className='footer_M absolute z-1 top-0' src={FooterM}></img>
                     {/* comms */}
-                    <img className='absolute top-2 right-7 w-[90px] h-[90px]' src={Comma}></img>
+                    <img className='dots absolute top-2 right-7 w-[90px] h-[90px]' src={Comma}></img>
                 </div>
                 {/* text_ + img*/}
-                <div className='flex justify-between mb-[7.9rem] ml-9'>
+                <div className='flex justify-between mb-[7.9rem] ml-9 what_say'>
                     {/* text */}
                 <div className='md500 text-[42px] text-[#2E2E46]'>What pepole say</div>
                 {/* images */}
-                <div className='flex items-center'>
+                <div className='flex items-center imgs'>
                     {/* image 1 */}
-                    <div className='pl-[10.5rem] cursor-pointer'><img src={LArrow}></img></div>
+                    <div className='lArrow pl-[10.5rem] cursor-pointer'><img src={LArrow}></img></div>
                     {/* image 2 */}
                     <div className='ml-5 cursor-pointer'><img src={DArrow}></img></div>
                 </div>
@@ -463,7 +463,7 @@ export const Main = () => {
                     <div className='mt-6 nav text-[14px] text-[#222831E5]'>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</div>
                     </div>
                 </div>
-                <div className='absolute bottom-[-110px] left-[27%] z-[-1]'><img src={Dots}></img></div>
+                <div className='dots absolute bottom-[-110px] left-[27%] z-[-1]'><img src={Dots}></img></div>
                 </div>
                     </div>
         </>)
