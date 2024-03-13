@@ -372,6 +372,9 @@
   }
 }
 @media (max-width:441px){
+  .grid_footer{
+    margin-top:-3rem;
+  }
   .margin_resp{
     margin-left:0px;
     margin-top:1rem;
