@@ -74,7 +74,7 @@ export const Footer = () => {
                                 </div>
                                 </div>
                                 {/* img 2 */}
-                                <div className='flex items-center justify-start mt-[18px]'>
+                                <div className='social_footer flex items-center justify-start mt-[18px]'>
                                     {/* m-1 */}
                                     <div className='cursor-pointer'><img src={Facebook}></img></div>
                                     {/* m-2 */}

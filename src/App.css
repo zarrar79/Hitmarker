@@ -352,6 +352,9 @@
     align-items:center;
     
   }
+  .social_footer{
+    justify-content:center;
+  }
   .discover{
     text-align:center;
   }
