@@ -368,6 +368,9 @@
   }
 }
 @media (max-width:441px){
+  .txt_center{
+    text-align:center;
+  }
   .grid_footer{
     margin-top:-3rem;
   }

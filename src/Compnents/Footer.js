@@ -16,7 +16,7 @@ export const Footer = () => {
             <div>
              {/* img */}
              <div className='wheel'><img src={Logo}></img></div>
-             <div className='mt-7 nav text-[14px] text-[#2E2E46CC]'>Open an account in minutes, get full Control for much longer.</div>
+             <div className='mt-7 nav txt_center text-[14px] text-[#2E2E46CC]'>Open an account in minutes, get full Control for much longer.</div>
             </div>
             {/* mid */}
             <div className='col-span-2 '>
