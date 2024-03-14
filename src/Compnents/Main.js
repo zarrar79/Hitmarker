@@ -46,7 +46,7 @@ export const Main = () => {
                                 {/* img */}
                                 <div><img src={Germany}></img></div>
                                 {/* text */}
-                                <div className='ml-[10px]    text-[12px] text-[#828282]'>Germany</div>
+                                <div className='ml-[13.5px] text-[12px] text-[#828282]'>Germany</div>
                             </div>
                         </div>
                     </div>
@@ -70,7 +70,7 @@ export const Main = () => {
                                 {/* img */}
                                 <div><img src={Canada}></img></div>
                                 {/* text */}
-                                <div className='ml-[10px] text-[12px] text-[#828282]'>Canada</div>
+                                <div className='ml-[13.5px] text-[12px] text-[#828282]'>Canada</div>
                             </div>
                         </div>
                     </div>
@@ -94,7 +94,7 @@ export const Main = () => {
                                 {/* img */}
                                 <div><img src={Germany}></img></div>
                                 {/* text */}
-                                <div className='ml-[10px]    text-[12px] text-[#828282]'>Germany</div>
+                                <div className='ml-[13.5px] text-[12px] text-[#828282]'>Germany</div>
                             </div>
                         </div>
                     </div>
@@ -118,7 +118,7 @@ export const Main = () => {
                                 {/* img */}
                                 <div><img src={Canada}></img></div>
                                 {/* text */}
-                                <div className='ml-[10px] text-[12px] text-[#828282]'>Canada</div>
+                                <div className='ml-[13.5px] text-[12px] text-[#828282]'>Canada</div>
                             </div>
                         </div>
                     </div>
@@ -142,7 +142,7 @@ export const Main = () => {
                                 {/* img */}
                                 <div><img src={Germany}></img></div>
                                 {/* text */}
-                                <div className='ml-[10px]    text-[12px] text-[#828282]'>Germany</div>
+                                <div className='ml-[13.5px] text-[12px] text-[#828282]'>Germany</div>
                             </div>
                         </div>
                     </div>
@@ -169,7 +169,7 @@ export const Main = () => {
                                 {/* img */}
                                 <div><img src={Canada}></img></div>
                                 {/* text */}
-                                <div className='ml-[10px]    text-[12px] text-[#828282]'>Canada</div>
+                                <div className='ml-[13.5px] text-[12px] text-[#828282]'>Canada</div>
                             </div>
                         </div>
                     </div>
@@ -193,7 +193,7 @@ export const Main = () => {
                                 {/* img */}
                                 <div><img src={Germany}></img></div>
                                 {/* text */}
-                                <div className='ml-[10px]    text-[12px] text-[#828282]'>Germany</div>
+                                <div className='ml-[13.5px] text-[12px] text-[#828282]'>Germany</div>
                             </div>
                         </div>
                     </div>
@@ -217,7 +217,7 @@ export const Main = () => {
                                 {/* img */}
                                 <div><img src={Ireland}></img></div>
                                 {/* text */}
-                                <div className='ml-[10px]    text-[12px] text-[#828282]'>Irland</div>
+                                <div className='ml-[13.5px] text-[12px] text-[#828282]'>Irland</div>
                             </div>
                         </div>
                     </div>
@@ -241,7 +241,7 @@ export const Main = () => {
                                 {/* img */}
                                 <div><img src={Germany}></img></div>
                                 {/* text */}
-                                <div className='ml-[10px]    text-[12px] text-[#828282]'>Germany</div>
+                                <div className='ml-[13.5px] text-[12px] text-[#828282]'>Germany</div>
                             </div>
                         </div>
                     </div>
@@ -265,7 +265,7 @@ export const Main = () => {
                                 {/* img */}
                                 <div><img src={Ireland}></img></div>
                                 {/* text */}
-                                <div className='ml-[10px]    text-[12px] text-[#828282]'>Irland</div>
+                                <div className='ml-[13.5px] text-[12px] text-[#828282]'>Irland</div>
                             </div>
                         </div>
                     </div>
@@ -292,7 +292,7 @@ export const Main = () => {
                                 {/* img */}
                                 <div><img src={Ireland}></img></div>
                                 {/* text */}
-                                <div className='ml-[10px]    text-[12px] text-[#828282]'>Irland</div>
+                                <div className='ml-[13.5px] text-[12px] text-[#828282]'>Irland</div>
                             </div>
                         </div>
                     </div>
@@ -316,7 +316,7 @@ export const Main = () => {
                                 {/* img */}
                                 <div><img src={Ireland}></img></div>
                                 {/* text */}
-                                <div className='ml-[10px]    text-[12px] text-[#828282]'>Irland</div>
+                                <div className='ml-[13.5px] text-[12px] text-[#828282]'>Irland</div>
                             </div>
                         </div>
                     </div>
@@ -340,7 +340,7 @@ export const Main = () => {
                                 {/* img */}
                                 <div><img src={Canada}></img></div>
                                 {/* text */}
-                                <div className='ml-[10px] text-[12px] text-[#828282]'>Canada</div>
+                                <div className='ml-[13.5px] text-[12px] text-[#828282]'>Canada</div>
                             </div>
                         </div>
                     </div>
@@ -364,7 +364,7 @@ export const Main = () => {
                                 {/* img */}
                                 <div><img src={Ireland}></img></div>
                                 {/* text */}
-                                <div className='ml-[10px]    text-[12px] text-[#828282]'>Irland</div>
+                                <div className='ml-[13.5px] text-[12px] text-[#828282]'>Irland</div>
                             </div>
                         </div>
                     </div>
@@ -388,8 +388,8 @@ export const Main = () => {
                                 {/* img */}
                                 <div><img src={Canada}></img></div>
                                 {/* text */}
-                                <div className='ml-[10px] text-[12px] text-[#828282]'>Canada</div>
-                            </div>
+                                <div className='ml-[13.5px] text-[12px] text-[#828282]'>Canada</div>
+                            </ div>
                         </div>
                     </div>
                     </div>

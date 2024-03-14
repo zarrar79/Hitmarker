@@ -53,7 +53,7 @@ export const Footer = () => {
                                 <div>Airline fees</div>
                                 <div>Airlines</div>
                                 <div>Low fare tips</div>
-                                </div>
+                              </div>
                     </div>
                 </div>
             </div>

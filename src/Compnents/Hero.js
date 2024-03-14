@@ -114,7 +114,7 @@ export const Hero = () => {
         {/* right */}
        <div className='pt-[1rem]'>
         <div className='mr-[0x] img_resp'>
-        <img src={Man}></img>
+        <img className='w-[max-content]' src={Man}></img>
         </div>
        </div>
      </div>
