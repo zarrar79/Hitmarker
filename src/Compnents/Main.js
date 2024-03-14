@@ -21,7 +21,7 @@ export const Main = () => {
                 {/* promote */}
                 <div className='nav text-[42px] text-[#2E2E46] text-center mt-[110px]'>Promoted Jobs</div>
                 {/* sm-text */}
-                <div className='nav text-[18px] text-[#2D314099] text-center mt-1'>These opportunities are shown on every page of our site and shared daily on our Twitter account.</div>
+                <div className='fluid_padding nav text-[18px] text-[#2D314099] text-center mt-1'>These opportunities are shown on every page of our site and shared daily on our Twitter account.</div>
                 {/* grid */}
                 <div className='grid_main grid grid-cols-3 mt-[5.8rem] gap-10 ml-8 fluid_padding'>
                     {/* grid_left */}
@@ -395,7 +395,7 @@ export const Main = () => {
                     </div>
                 </div>
                 {/* Promote bar */}
-                <div className=' mt-[4.5rem] text-[#ffff] bg-[#FF6810] px-7 py-7 rounded-[10px] leading-[17.5px] box_bar'>
+                <div className='bar_fluid mt-[4.5rem] text-[#ffff] bg-[#FF6810] px-7 py-7 rounded-[10px] leading-[17.5px] box_bar'>
                     {/* inner parent */}
                     <div className='flex items-center justify-between bar_flex'>
                         {/* sm-text + img */}

@@ -397,7 +397,11 @@
     padding-top:1rem;
   }
 }
-@media (max-width:320px){
+@media (max-width:376px){
+ .bar_fluid{
+  margin-left:1rem;
+  margin-right:1rem;
+ } 
   .fluid_padding{
     padding-left:1rem;
     padding-right:1rem;
