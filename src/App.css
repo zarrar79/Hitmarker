@@ -232,6 +232,11 @@
 .box_abs{
   box-shadow:4px 20px 100px 0px #0815260F;
 }
+@media (min-width:1440px){
+  .img_resp{
+    width:max-content;
+  }
+}
 @media (max-width:768px){
   .mid,.right{
     display:none;
